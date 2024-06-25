@@ -153,8 +153,6 @@ a{
     align-items: center;
 }
 
-
-
 @media only screen and (max-width: 1000px) {
     body{
         overflow-x: hidden;
