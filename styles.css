@@ -58,7 +58,7 @@ a{
 }
 .explore{
     font-family: "Lobster Two", serif;
-    font-size: 6em;
+    font-size: 5em;
     line-height: 1.2;
     padding: 5px;
     width: 0%;
@@ -102,7 +102,7 @@ a{
 }
 
 .keyfeatures{
-    font-size: 4em;
+    font-size: 3em;
     margin-left: 20px;
 }
 #icon{
@@ -222,14 +222,14 @@ a{
         padding: 20px;
         margin: 10px;
     }
-    .overlay1{
+    /* .overlay1{
         width: 100%;
         height: 200px;
-        /* background: #000; */
+        background: #000;
         opacity: .6;
         position: absolute;
         display: flex;
         justify-content: center;
         align-items: center;
-    }
+    } */
 }
