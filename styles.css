@@ -220,4 +220,14 @@ a{
         padding: 20px;
         margin: 10px;
     }
+    .overlay1{
+        width: 100%;
+        height: 2600px;
+        /* background: #000; */
+        opacity: .6;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 }
