@@ -215,4 +215,9 @@ a{
         justify-content: center;
         align-items: center;
     }
+    #quote{
+        font-size: 1.5em;
+        padding: 20px;
+        margin: 10px;
+    }
 }
