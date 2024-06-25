@@ -165,14 +165,17 @@ a{
         align-items: center; 
         justify-content: center;
     }
+    .about-header{
+        font-size: 1.5em;
+    }
     .about{
-        font-size: 1.5em ;
+        font-size: 1em ;
     }
     .fluid-container:nth-of-type(2){
-        padding: 10px ;
+        padding: 10px;
     }
     .keyfeatures{
-        font-size: 2.5em;
+        font-size: 1.5em;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -182,5 +185,18 @@ a{
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+    .headers{
+        padding-top:10px;
+        font-size:1.3em ;
+        font-weight: bold;
+        line-height: 1;
+    }
+    .content{
+        font-size: 1em;
+        line-height: 1;
+    }
+    .fluid-container:nth-of-type(4){
+        font-size: 1;
     }
 }
